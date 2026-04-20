@@ -6,6 +6,7 @@
 
 [Back to Home](../index.md)
 
+---
 
 ## Word Error Rate (WER) Results (Additinal)
 Although the character error rate (CER) is included in the paper, the comparison results for the word error rate (WER) in each drone noise environment are presented here.
