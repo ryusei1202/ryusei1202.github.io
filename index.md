@@ -17,4 +17,6 @@ Currently, I am a member of the [Nakadai Lab](https://www.ra.sc.e.titech.ac.jp/)
 
 ## Publication
 1. **Ryusei Miura**, Takahiro Osaki, Benjamin Yen, Takeshi Ashizawa, Kazuhiro Nakadai. **"[Improving Automatic Speech Recognition by Mitigating Distortions Introduced by Speech Enhancement Under Drone Noise.](https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=6722&bare=1)"** *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, 2026.
+**[[Paper](https://www.cmsworkshops.com/ICASSP2026/view_paper.php?PaperNum=6722&bare=1)].**
+**[[Project Page](./research/icassp2026.md)].**
 
