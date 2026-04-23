@@ -8,7 +8,7 @@
 
 ---
 
-## Word Error Rate (WER) Results (Additinal)
+## Word Error Rate (WER) Results (Additional)
 Although the character error rate (CER) is included in the paper, the comparison results for the word error rate (WER) in each drone noise environment are presented here.
 
 **Table 1: Comparison of ASR performance in word error rate (WER) [%] under various drone noise conditions at 0 / -5 / -10 dB SNR.** Results are shown for three drone noises (Bebop, Mambo, MK-Quadro) and their average. Bold indicates the best result for each noise condition, with the final proposed system also highlighted.
